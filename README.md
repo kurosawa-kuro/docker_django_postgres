@@ -20,3 +20,9 @@ DATABASES = {
     }
 }
 ```
+
+# web access
+
+```
+localhost:8000
+```
